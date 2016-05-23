@@ -1,0 +1,6 @@
+#+TITLE: Configuration Management — Software Development 2016
+
+[[slides/output/su16-configuration-management.pdf][Lecture slides]] and
+[[src][source code]] from the lecture on Configuration Management given for
+[[http://www.webcitation.org/6eJN9ZMzG][Software Development 2016]] at
+[[http://www.diku.dk/][DIKU]].
