@@ -6,7 +6,7 @@
 
   This lets you avoid cloning the git repository every time, while also letting
   you stay up to date with changes in =master=. This script is not well-suited
-  for working with git, but could be useful for various "bots".
+  for humans working with git, but could be useful for various bots.
 
 2. Modify the shell-script to checkout a user-specified (specified via a
   command-line argument) branch, tag, or commit. Let the script default to
