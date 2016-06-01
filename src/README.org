@@ -4,9 +4,9 @@
   =kudos= direcctory exists in the working directory, and to fetch and checkout
   the =master= branch if the directory already exists.
 
-  This enables you to not resort to cloning a git repository anew if no changes
-  have been made, but makes sure you are always using the most recent =master=
-  for your needs.
+  This lets you avoid cloning the git repository every time, while also letting
+  you stay up to date with changes in =master=. This script is not well-suited
+  for working with git, but could be useful for various "bots".
 
 2. Modify the shell-script to checkout a user-specified (specified via a
   command-line argument) branch, tag, or commit. Let the script default to
