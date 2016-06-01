@@ -1,6 +1,6 @@
 ** Exercises
 
-1. Write a shell-script- to clone [[https://github.com/DIKU-EDU/kudos]] if no
+1. Write a shell-script to clone [[https://github.com/DIKU-EDU/kudos]] if no
   =kudos= direcctory exists in the working directory, and to fetch and checkout
   the =master= branch if the directory already exists.
 
