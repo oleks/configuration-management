@@ -1,13 +1,13 @@
 ** Exercises
 
-1. Write a shell-script to clone [[https://github.com/DIKU-EDU/kudos]] if no
-  `kudos` direcctory exists in the working directory, and to fetch and checkout
-  the `master` branch if the directory already exists.
+1. Write a shell-script- to clone [[https://github.com/DIKU-EDU/kudos]] if no
+  =kudos= direcctory exists in the working directory, and to fetch and checkout
+  the =master= branch if the directory already exists.
 
   This enables you to not resort to cloning a git repository anew if no changes
-  have been made, but makes sure you are always using the most recent `master`
+  have been made, but makes sure you are always using the most recent =master=
   for your needs.
 
 2. Modify the shell-script to checkout a user-specified (specified via a
   command-line argument) branch, tag, or commit. Let the script default to
-  checking out `master`.
+  checking out =master=.
